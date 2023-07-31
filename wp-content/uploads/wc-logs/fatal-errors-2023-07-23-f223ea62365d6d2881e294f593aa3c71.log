@@ -1,0 +1,14 @@
+2023-07-23T08:59:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\role-manager\role-manager.php on line 9
+
+2023-07-23T19:32:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\themes\astra\inc\modules\posts-structures\class-astra-posts-structure-markup.php on line 12
+
+2023-07-23T19:32:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 4550
+
+2023-07-23T19:33:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\bdthemes-element-pack-lite\modules\image-magnifier\widgets\image-magnifier.php on line 10
+
+2023-07-23T19:33:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\bdthemes-element-pack-lite\modules\member\skins\skin-calm.php on line 10
+
+2023-07-23T19:33:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\bdthemes-element-pack-lite\modules\member\skins\skin-flip.php on line 9
+
+2023-07-23T19:33:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\bdthemes-element-pack-lite\modules\review-card-carousel\widgets\review-card-carousel.php on line 20
+

@@ -1,0 +1,10 @@
+2023-07-22T01:05:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-admin\admin-footer.php on line 10
+
+2023-07-22T08:28:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\bdthemes-element-pack-lite\modules\formidable-forms\module.info.php on line 2
+
+2023-07-22T08:28:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\Shipping.php on line 23
+
+2023-07-22T08:28:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6651
+
+2023-07-22T21:39:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-help.php on line 9
+
